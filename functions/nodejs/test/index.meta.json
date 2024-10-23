@@ -1,0 +1,16 @@
+{
+  "apiID": "package_bc1f36__c__function_aadhddkbdwqai",
+  "apiName": "test",
+  "label": {
+    "zh_CN": "test",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}
