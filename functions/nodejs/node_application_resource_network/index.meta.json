@@ -1,0 +1,16 @@
+{
+  "apiID": "package_775c95__c__function_aadhdd7e44adc",
+  "apiName": "node_application_resource_network",
+  "label": {
+    "zh_CN": "node_application_resource_network",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "上传网络文件；上传本地文件自动化跑不了",
+    "en_US": ""
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}

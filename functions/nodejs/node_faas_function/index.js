@@ -9,9 +9,18 @@
  *
  * @return 函数的返回数据
  */
-module.exports = async function (params, context, logger) {
+ module.exports = async function (params, context, logger) {
   // 日志功能
   // logger.info(`${new Date()} 函数开始执行`);
-   return{"res":"done1"}
+
+  // 函数间的相互调用
+  const result1 = await faas.function('node_application_global_var').invoke({"demo_input_field":"hello world"})
+  const result2 = await faas.function('node_application_oql').invoke()
+  const result3 = await faas.function('node_application_metadata').invoke()
+  logger.info(JSON.stringify(result1));
+  logger.info(JSON.stringify(result2));
+  logger.info(JSON.stringify(result3));
+
+
   // 在这里补充业务代码
 }

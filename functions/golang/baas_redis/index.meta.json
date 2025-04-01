@@ -1,0 +1,16 @@
+{
+  "apiID": "package_775c95__c__function_aadhcytj7veae",
+  "apiName": "baas_redis",
+  "label": {
+    "zh_CN": "baas_redis",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}

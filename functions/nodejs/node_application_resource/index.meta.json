@@ -1,0 +1,16 @@
+{
+  "apiID": "package_775c95__c__function_aadhcpfs7jgae",
+  "apiName": "node_application_resource",
+  "label": {
+    "zh_CN": "node_application_resource",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}

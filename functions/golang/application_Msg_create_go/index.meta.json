@@ -1,0 +1,33 @@
+{
+  "apiID": "package_775c95__c__function_aadhcpfptmecc",
+  "apiName": "application_Msg_create_go",
+  "label": {
+    "zh_CN": "application.Msg.create-go",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": false,
+  "input": [
+    {
+      "key": "demo_input_field",
+      "type": "Text",
+      "required": false,
+      "label": "DemoInputField",
+      "description": "Custom Field",
+      "example": "Sample Text"
+    }
+  ],
+  "output": [
+    {
+      "key": "demo_output_field",
+      "type": "Text",
+      "label": "DemoOutputField",
+      "description": "Custom Field",
+      "example": "Sample Text"
+    }
+  ]
+}

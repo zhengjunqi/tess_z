@@ -1,0 +1,16 @@
+{
+  "apiID": "package_775c95__c__function_aadhdd7hwkmbc",
+  "apiName": "func_test",
+  "label": {
+    "zh_CN": "可删除",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}

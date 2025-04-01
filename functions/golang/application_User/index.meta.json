@@ -1,0 +1,16 @@
+{
+  "apiID": "package_775c95__c__function_aadhcytj7vmce",
+  "apiName": "application_User",
+  "label": {
+    "zh_CN": "application_User",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}
