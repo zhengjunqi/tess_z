@@ -1,0 +1,16 @@
+{
+  "apiID": "package_775c95__c__function_aadh5lplzqqou",
+  "apiName": "n2",
+  "label": {
+    "zh_CN": "n2",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": true,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
